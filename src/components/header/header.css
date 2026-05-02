@@ -1,0 +1,31 @@
+.headerbox {
+    width: 100vw;
+    height: 13vh;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap: 10vw;
+}
+
+.hometext {
+    margin: 0;
+    color: whitesmoke;
+}
+
+.abouttext {
+    margin: 0;
+    color: whitesmoke;
+}
+
+.logo {
+    width: 25vw;
+    height: auto;
+}
+
+.Navtext {
+    display: flex;
+    flex-direction: row;
+    
+}
